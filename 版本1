@@ -1,0 +1,4 @@
+echo "这是文本的初始版本内容" > document.txt
+git添加文档.txt
+git commit -m "版本1: 初始文本内容"
+推送至远程仓库origin的main分支
