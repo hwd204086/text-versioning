@@ -1,0 +1,4 @@
+echo "这是文本的第三个版本，修正了第二版的错误，优化了表达方式" > document.txt
+git添加文档.txt
+git commit -m "版本3: 修正错误并优化表达"
+推送至远程仓库origin的main分支
