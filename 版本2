@@ -1,0 +1,4 @@
+echo "这是文本的第二个版本，添加了新段落和新功能描述" > document.txt
+git添加文档.txt
+git commit -m "版本2: 添加新段落和功能描述"
+推送至远程仓库origin的main分支
